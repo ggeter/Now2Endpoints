@@ -1,6 +1,8 @@
+
 {
-  "version": 2,
-  "builds": [
-    { "src": "*.js", "use": "@now/node" }
-  ]
+    "version": 2,
+    "name": "nodejs_endpoints_on_now2",
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }
+    ]
 }
